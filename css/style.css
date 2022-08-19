@@ -1,3 +1,8 @@
-slider {
-    height: 800px;
+.slider h3,
+.slider h5 {
+    text-shadow: 3px 2px 1px rgba(0, 0, 0, 1);
+}
+
+.slider {
+    height: 900px;
 }
